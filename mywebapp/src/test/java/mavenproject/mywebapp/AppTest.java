@@ -36,5 +36,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("Hello");
+        System.out.println("My first change in the file");
     }
 }
